@@ -1,7 +1,7 @@
 ProjectTox-Website
 ==================
 
-Source code for the Tox.im website
+Source code for the Tox.im website.
 
 Building the site
 =================
